@@ -1,0 +1,74 @@
+[
+  {
+    "boat": "luzzu",
+    "file": "luzzu.json",
+    "sourceHash": "daa3b80a729b81a2304652d2ff05f80fca0ca4114e1824a89dbe85142b7a34c1",
+    "modelHash": "70f0c2c36afa34d08e23aeba46673b29f8b8d43310414448a8d1e4939a8afdeb",
+    "groups": 33,
+    "pieces": 462,
+    "bytes": 24118826
+  },
+  {
+    "boat": "kajjik",
+    "file": "kajjik.json",
+    "sourceHash": "daa3b80a729b81a2304652d2ff05f80fca0ca4114e1824a89dbe85142b7a34c1",
+    "modelHash": "1aa9878039c184be8a9c64183153a309065c1fb918c8a8d743469ea61d1c67ba",
+    "groups": 35,
+    "pieces": 520,
+    "bytes": 25477418
+  },
+  {
+    "boat": "latini",
+    "file": "latini.json",
+    "sourceHash": "daa3b80a729b81a2304652d2ff05f80fca0ca4114e1824a89dbe85142b7a34c1",
+    "modelHash": "ecfa2510bdd91dfb7f57acdba6efe2ac3f9d906090486a9319de538423ab2925",
+    "groups": 39,
+    "pieces": 485,
+    "bytes": 26962111
+  },
+  {
+    "boat": "firilla",
+    "file": "firilla.json",
+    "sourceHash": "daa3b80a729b81a2304652d2ff05f80fca0ca4114e1824a89dbe85142b7a34c1",
+    "modelHash": "b30c50087c1f46f5ef3803c48e547840ce106686c78abc38560df344fd33133c",
+    "groups": 33,
+    "pieces": 622,
+    "bytes": 22758555
+  },
+  {
+    "boat": "xprunara",
+    "file": "xprunara.json",
+    "sourceHash": "daa3b80a729b81a2304652d2ff05f80fca0ca4114e1824a89dbe85142b7a34c1",
+    "modelHash": "a2b37cdf4eae0333fa545cf92879ec561245b41e7ae5c581610d82201fa9c049",
+    "groups": 40,
+    "pieces": 512,
+    "bytes": 26629176
+  },
+  {
+    "boat": "pass",
+    "file": "pass.json",
+    "sourceHash": "daa3b80a729b81a2304652d2ff05f80fca0ca4114e1824a89dbe85142b7a34c1",
+    "modelHash": "c5adc852c5bf6999eb2d9a1cd4f6623d9a7099a5c6547f0b9f17f9090f5cdca5",
+    "groups": 31,
+    "pieces": 446,
+    "bytes": 22930140
+  },
+  {
+    "boat": "gozzo",
+    "file": "gozzo.json",
+    "sourceHash": "daa3b80a729b81a2304652d2ff05f80fca0ca4114e1824a89dbe85142b7a34c1",
+    "modelHash": "b876ee55963fb6ffce5dc445cd5aed7e2fb0345ee1b4c67754e867ea7b60118b",
+    "groups": 36,
+    "pieces": 442,
+    "bytes": 23482140
+  },
+  {
+    "boat": "midalji",
+    "file": "midalji.json",
+    "sourceHash": "daa3b80a729b81a2304652d2ff05f80fca0ca4114e1824a89dbe85142b7a34c1",
+    "modelHash": "1d1f1bdcf9b2439cd064800ccb86cdb314f191a590074376d68d52d60984bc4c",
+    "groups": 26,
+    "pieces": 427,
+    "bytes": 25009608
+  }
+]

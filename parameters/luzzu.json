@@ -1,0 +1,809 @@
+{
+  "format": "os-luzzu-parametric-boat",
+  "schemaVersion": 1,
+  "generator": {
+    "id": "os-luzzu-timber-loft",
+    "version": "2.0.5",
+    "interpolation": "shape-preserving-cubic",
+    "units": "metres",
+    "up": "+Y",
+    "bow": "+Z"
+  },
+  "boatType": "luzzu",
+  "baseVariant": "teaching-reconstruction",
+  "contentVersion": 11,
+  "revision": 1,
+  "status": "local-proposal",
+  "parameters": {
+    "dimensions": {
+      "length": 7.8,
+      "beam": 2.5,
+      "depth": 1.15
+    },
+    "hull": {
+      "status": "reconstructed-offsets",
+      "parameters": [
+        0,
+        0.1,
+        0.22,
+        0.36,
+        0.5,
+        0.64,
+        0.78,
+        0.9,
+        1
+      ],
+      "stations": [
+        {
+          "at": -1,
+          "breadth": 0.025,
+          "sheer": 1.08,
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              0.055,
+              0.1
+            ],
+            [
+              0.125,
+              0.22
+            ],
+            [
+              0.24,
+              0.36
+            ],
+            [
+              0.38,
+              0.5
+            ],
+            [
+              0.53,
+              0.64
+            ],
+            [
+              0.69,
+              0.78
+            ],
+            [
+              0.84,
+              0.9
+            ],
+            [
+              1,
+              1
+            ]
+          ]
+        },
+        {
+          "at": -0.94,
+          "breadth": 0.125,
+          "sheer": 1.07069,
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              0.055,
+              0.1
+            ],
+            [
+              0.125,
+              0.22
+            ],
+            [
+              0.24,
+              0.36
+            ],
+            [
+              0.38,
+              0.5
+            ],
+            [
+              0.53,
+              0.64
+            ],
+            [
+              0.69,
+              0.78
+            ],
+            [
+              0.84,
+              0.9
+            ],
+            [
+              1,
+              1
+            ]
+          ]
+        },
+        {
+          "at": -0.82,
+          "breadth": 0.34,
+          "sheer": 1.05379,
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              0.05791,
+              0.09825
+            ],
+            [
+              0.13094,
+              0.21639
+            ],
+            [
+              0.24769,
+              0.35488
+            ],
+            [
+              0.38815,
+              0.49488
+            ],
+            [
+              0.53745,
+              0.63581
+            ],
+            [
+              0.69582,
+              0.77697
+            ],
+            [
+              0.84326,
+              0.89814
+            ],
+            [
+              1,
+              1
+            ]
+          ]
+        },
+        {
+          "at": -0.62,
+          "breadth": 0.62,
+          "sheer": 1.03075,
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              0.09791,
+              0.07425
+            ],
+            [
+              0.21254,
+              0.16679
+            ],
+            [
+              0.35329,
+              0.28448
+            ],
+            [
+              0.50015,
+              0.42448
+            ],
+            [
+              0.63985,
+              0.57821
+            ],
+            [
+              0.77582,
+              0.73537
+            ],
+            [
+              0.88806,
+              0.87254
+            ],
+            [
+              1,
+              1
+            ]
+          ]
+        },
+        {
+          "at": -0.38,
+          "breadth": 0.85,
+          "sheer": 1.01155,
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              0.16152,
+              0.03609
+            ],
+            [
+              0.34231,
+              0.08791
+            ],
+            [
+              0.52122,
+              0.17252
+            ],
+            [
+              0.67827,
+              0.31252
+            ],
+            [
+              0.8027,
+              0.48661
+            ],
+            [
+              0.90305,
+              0.66922
+            ],
+            [
+              0.95931,
+              0.83183
+            ],
+            [
+              1,
+              1
+            ]
+          ]
+        },
+        {
+          "at": -0.14,
+          "breadth": 0.98,
+          "sheer": 1.00157,
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              0.18,
+              0.025
+            ],
+            [
+              0.38,
+              0.065
+            ],
+            [
+              0.57,
+              0.14
+            ],
+            [
+              0.73,
+              0.28
+            ],
+            [
+              0.85,
+              0.46
+            ],
+            [
+              0.94,
+              0.65
+            ],
+            [
+              0.98,
+              0.82
+            ],
+            [
+              1,
+              1
+            ]
+          ]
+        },
+        {
+          "at": 0.1,
+          "breadth": 0.995,
+          "sheer": 1.00176,
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              0.18,
+              0.025
+            ],
+            [
+              0.38,
+              0.065
+            ],
+            [
+              0.57,
+              0.14
+            ],
+            [
+              0.73,
+              0.28
+            ],
+            [
+              0.85,
+              0.46
+            ],
+            [
+              0.94,
+              0.65
+            ],
+            [
+              0.98,
+              0.82
+            ],
+            [
+              1,
+              1
+            ]
+          ]
+        },
+        {
+          "at": 0.34,
+          "breadth": 0.9,
+          "sheer": 1.02035,
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              0.16911,
+              0.03154
+            ],
+            [
+              0.35778,
+              0.07851
+            ],
+            [
+              0.54124,
+              0.15917
+            ],
+            [
+              0.6995,
+              0.29917
+            ],
+            [
+              0.82211,
+              0.47569
+            ],
+            [
+              0.91821,
+              0.66133
+            ],
+            [
+              0.9678,
+              0.82697
+            ],
+            [
+              1,
+              1
+            ]
+          ]
+        },
+        {
+          "at": 0.58,
+          "breadth": 0.72,
+          "sheer": 1.05921,
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              0.109,
+              0.0676
+            ],
+            [
+              0.23516,
+              0.15304
+            ],
+            [
+              0.38256,
+              0.26496
+            ],
+            [
+              0.5312,
+              0.40496
+            ],
+            [
+              0.66824,
+              0.56224
+            ],
+            [
+              0.798,
+              0.72384
+            ],
+            [
+              0.90048,
+              0.86544
+            ],
+            [
+              1,
+              1
+            ]
+          ]
+        },
+        {
+          "at": 0.8,
+          "breadth": 0.43,
+          "sheer": 1.11264,
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              0.06006,
+              0.09696
+            ],
+            [
+              0.13533,
+              0.21372
+            ],
+            [
+              0.25337,
+              0.35109
+            ],
+            [
+              0.39418,
+              0.49109
+            ],
+            [
+              0.54296,
+              0.63271
+            ],
+            [
+              0.70013,
+              0.77473
+            ],
+            [
+              0.84567,
+              0.89676
+            ],
+            [
+              1,
+              1
+            ]
+          ]
+        },
+        {
+          "at": 0.94,
+          "breadth": 0.13,
+          "sheer": 1.15551,
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              0.055,
+              0.1
+            ],
+            [
+              0.125,
+              0.22
+            ],
+            [
+              0.24,
+              0.36
+            ],
+            [
+              0.38,
+              0.5
+            ],
+            [
+              0.53,
+              0.64
+            ],
+            [
+              0.69,
+              0.78
+            ],
+            [
+              0.84,
+              0.9
+            ],
+            [
+              1,
+              1
+            ]
+          ]
+        },
+        {
+          "at": 1,
+          "breadth": 0.025,
+          "sheer": 1.176,
+          "points": [
+            [
+              0,
+              0
+            ],
+            [
+              0.055,
+              0.1
+            ],
+            [
+              0.125,
+              0.22
+            ],
+            [
+              0.24,
+              0.36
+            ],
+            [
+              0.38,
+              0.5
+            ],
+            [
+              0.53,
+              0.64
+            ],
+            [
+              0.69,
+              0.78
+            ],
+            [
+              0.84,
+              0.9
+            ],
+            [
+              1,
+              1
+            ]
+          ]
+        }
+      ],
+      "frames": [
+        {
+          "number": 1,
+          "at": 0.9,
+          "sided": 0.05
+        },
+        {
+          "number": 2,
+          "at": 0.82552,
+          "sided": 0.05
+        },
+        {
+          "number": 3,
+          "at": 0.75884,
+          "sided": 0.05
+        },
+        {
+          "number": 4,
+          "at": 0.68613,
+          "sided": 0.05
+        },
+        {
+          "number": 5,
+          "at": 0.62158,
+          "sided": 0.05
+        },
+        {
+          "number": 6,
+          "at": 0.54435,
+          "sided": 0.05
+        },
+        {
+          "number": 7,
+          "at": 0.46371,
+          "sided": 0.05
+        },
+        {
+          "number": 8,
+          "at": 0.39159,
+          "sided": 0.05
+        },
+        {
+          "number": 9,
+          "at": 0.31306,
+          "sided": 0.05
+        },
+        {
+          "number": 10,
+          "at": 0.24341,
+          "sided": 0.05
+        },
+        {
+          "number": 11,
+          "at": 0.16019,
+          "sided": 0.05
+        },
+        {
+          "number": 12,
+          "at": 0.07337,
+          "sided": 0.05
+        },
+        {
+          "number": 13,
+          "at": -0.00417,
+          "sided": 0.05
+        },
+        {
+          "number": 14,
+          "at": -0.08737,
+          "sided": 0.05
+        },
+        {
+          "number": 15,
+          "at": -0.15906,
+          "sided": 0.05
+        },
+        {
+          "number": 16,
+          "at": -0.24228,
+          "sided": 0.05
+        },
+        {
+          "number": 17,
+          "at": -0.32663,
+          "sided": 0.05
+        },
+        {
+          "number": 18,
+          "at": -0.39983,
+          "sided": 0.05
+        },
+        {
+          "number": 19,
+          "at": -0.4772,
+          "sided": 0.05
+        },
+        {
+          "number": 20,
+          "at": -0.54379,
+          "sided": 0.05
+        },
+        {
+          "number": 21,
+          "at": -0.62101,
+          "sided": 0.05
+        },
+        {
+          "number": 22,
+          "at": -0.69919,
+          "sided": 0.05
+        },
+        {
+          "number": 23,
+          "at": -0.76696,
+          "sided": 0.05
+        },
+        {
+          "number": 24,
+          "at": -0.8385,
+          "sided": 0.05
+        },
+        {
+          "number": 25,
+          "at": -0.9,
+          "sided": 0.05
+        }
+      ],
+      "frameStatus": "reconstructed",
+      "basis": {
+        "en": "Separate form study informed by the cited boat’s outline and photographs. These station offsets remain reconstructed; an authenticated section survey is still required.",
+        "mt": "Studju separat tal-forma ggwidat mill-profil u r-ritratti tad-dgħajsa ċċitata. L-offsets huma rikostruwiti; għadu meħtieġ stħarriġ awtentiku tat-taqsimiet."
+      },
+      "frameBasis": {
+        "en": "Unequal demonstration spacing; neither frame count nor individual positions are authenticated. Replace with a specimen’s numbered frame survey or attributed galvu record.",
+        "mt": "Spazjar mhux indaqs għal tagħlim; l-għadd u l-pożizzjonijiet mhumiex awtentikati. Jeħtieġ stħarriġ tal-majjieri nnumerati jew rekord attribwit ta’ galvu."
+      },
+      "citations": [
+        {
+          "source": "muscat",
+          "locator": "Boat-specific profile illustrations and construction discussion",
+          "scope": {
+            "en": "Supports the stated form or specimen observations, not these numerical offsets.",
+            "mt": "Jappoġġa l-forma jew l-osservazzjonijiet tal-eżemplar, mhux dawn l-offsets numeriċi."
+          }
+        }
+      ]
+    },
+    "geometry": {},
+    "construction": {
+      "keelWidth": 0.085,
+      "keelHeight": 0.11,
+      "plankThickness": 0.025,
+      "stemWidth": 0.12,
+      "postMoulded": 0.115,
+      "postHeelFraction": 0.055,
+      "frameMoulded": 0.06,
+      "strakes": 8,
+      "seamFraction": 0.006,
+      "hullHalfLength": 0.485,
+      "straightKeelHalfLength": 0.405,
+      "scarfLength": 0.025,
+      "forefootRise": 0.25,
+      "postCurve": 0.018,
+      "canvasSeatedHeight": 1.55,
+      "canvasAftFraction": -0.37,
+      "canvasForeFraction": 0.455,
+      "canvasRidgeSag": 0.035,
+      "canvasBowClearance": 0.045,
+      "canvasFrameCount": 4,
+      "cabinLengthFraction": 0.15,
+      "cabinBeamFraction": 0.48,
+      "cabinHeight": 0.7
+    },
+    "decoration": {
+      "guardStyle": "knobbed",
+      "bands": [
+        {
+          "region": "underwater",
+          "height": 0.22,
+          "curve": 0.028
+        },
+        {
+          "region": "hull",
+          "height": 0.66,
+          "curve": -0.035
+        },
+        {
+          "region": "trim",
+          "height": 0.76,
+          "curve": 0.055
+        },
+        {
+          "region": "moustache",
+          "height": 1,
+          "curve": 0
+        }
+      ],
+      "pinstripe": 0.008,
+      "eye": {
+        "width": 0.12,
+        "height": 0.067,
+        "station": 0.84,
+        "v": 0.56,
+        "relief": 0.011
+      }
+    },
+    "waterline": 0.52,
+    "parts": [
+      "keel",
+      "bow-post",
+      "stern-post",
+      "floor-frames",
+      "futtocks",
+      "planking",
+      "sheer-strake",
+      "washboards",
+      "gunwale",
+      "rubbing-strake",
+      "fore-deck",
+      "aft-deck",
+      "floorboards",
+      "thwarts",
+      "catwalks",
+      "scuppers",
+      "rowlocks",
+      "oars",
+      "rudder",
+      "tiller",
+      "eye",
+      "moustache",
+      "decoration",
+      "fasteners",
+      "galvu",
+      "caulking",
+      "forefoot",
+      "apron",
+      "seat-supports",
+      "knees",
+      "rudder-stock",
+      "rudder-hinges",
+      "rudder-cheeks",
+      "plank-butt-blocks",
+      "breasthooks"
+    ]
+  },
+  "provenance": {
+    "author": "",
+    "specimen": "",
+    "placeAndPeriod": "",
+    "method": "reconstruction",
+    "sources": [],
+    "notes": "",
+    "permissionToReview": false
+  },
+  "authoringHash": "fa99125d43b6c99dc9bab5c1818ad14b1e88e03a4c837255963c68a689d91ac2"
+}

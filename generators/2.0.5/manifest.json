@@ -1,0 +1,35 @@
+{
+  "format": "os-luzzu-generator-source",
+  "generator": {
+    "id": "os-luzzu-timber-loft",
+    "version": "2.0.5",
+    "interpolation": "shape-preserving-cubic",
+    "units": "metres",
+    "up": "+Y",
+    "bow": "+Z"
+  },
+  "files": [
+    {
+      "name": "geometry.mjs",
+      "sha256": "a7ae5ed424f67a8c18c822c20a245021380573321110e4bf07113d04f57dde4f"
+    },
+    {
+      "name": "hull-loft.mjs",
+      "sha256": "3f10e64026fcf1255544f5528697c3c24fb19b0c8de99d5cedb49adace95f6ca"
+    },
+    {
+      "name": "parametric.mjs",
+      "sha256": "649f3debac0a0fb7152a09cd610e83b4ba8422530ff01a7483823b9f43e6b21a"
+    },
+    {
+      "name": "catalogue.json",
+      "sha256": "d713a2c46204f123cdfdb1aac5fbb03342b564b46dd0217e01581231ea59f194"
+    },
+    {
+      "name": "package-lock.json",
+      "sha256": "b41ca6bc92f79b0d71801e29cc24abbbb2742665d66b82837c8c473e4117cd3d"
+    }
+  ],
+  "recipeHash": "7122c6d1e5b024f0c6a4f3e624f5c31fd6701c25681bd10bbadf0e7e4f3e3794",
+  "authoringHash": "fa99125d43b6c99dc9bab5c1818ad14b1e88e03a4c837255963c68a689d91ac2"
+}
